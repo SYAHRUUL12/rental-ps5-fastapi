@@ -1,5 +1,5 @@
 # API Sistem Rental PlayStation 5 (FastAPI + aiosqlite)
-
+LINK YT: 
 Aplikasi REST API asinkron untuk manajemen unit/paket konsol **Rental PlayStation 5** dan pemrosesan transaksi penyewaan secara latar belakang (*background processing*) dengan proteksi konkurensi `asyncio.Lock`.
 
 ## Fitur Utama
